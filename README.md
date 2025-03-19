@@ -9,4 +9,5 @@ support device rotation.
 The goal is to write high-quality code for the portion you choose to implement, not the
 number of features implemented.
 
-![Demo GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFzaXVpOHU1cXB5OHZkMjQ2OGxiMTVtc2lraWpmY3EwZXJhbGZqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FSHlVxMTAupN3EVAu/giphy.gif)
+
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFzaXVpOHU1cXB5OHZkMjQ2OGxiMTVtc2lraWpmY3EwZXJhbGZqbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1FSHlVxMTAupN3EVAu/giphy.gif">
