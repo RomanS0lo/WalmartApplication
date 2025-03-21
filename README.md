@@ -12,6 +12,4 @@ The implementation should be robust (i.e., handle errors and edge cases) and
 support device rotation.
 The goal is to write high-quality code for the portion you choose to implement, not the
 number of features implemented.
-
-DEMO
 [![DEMO](https://img.youtube.com/vi/yLyXw4GN7-c&ab_channel=Rexer/0.jpg)](https://www.youtube.com/watch?v=yLyXw4GN7-c&ab_channel=Rexer)
